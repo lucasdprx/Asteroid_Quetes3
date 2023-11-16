@@ -1,4 +1,122 @@
-﻿  Timer.c
-C:\Users\Lucas\source\repos\Asteroids\Asteroids\Timer.c(24): warning C4716: 'create_timer' : doit retourner une valeur
-C:\Users\Lucas\source\repos\Asteroids\Asteroids\Timer.c(32): warning C4716: 'display_timer' : doit retourner une valeur
-  Asteroids.vcxproj -> C:\Users\Lucas\source\repos\Asteroids\x64\Debug\Asteroids.exe
+﻿  Asteroid.c
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(14,57): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(15,57): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(18,56): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(19,59): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(22,56): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(23,62): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(27,59): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(28,56): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(31,62): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(32,56): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(33,63): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(39,27): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(39,76): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(44,58): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(45,66): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(46,65): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(47,69): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(48,65): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(49,69): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(61,27): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(61,78): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(66,57): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(67,66): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(68,64): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(69,69): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(70,64): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(71,69): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  character.c
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(16,58): warning C4244: 'fonction' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(17,58): warning C4244: 'fonction' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(22,30): warning C4305: '*=' : troncation de 'double' à 'float'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(38,27): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(38,76): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(57,27): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(57,78): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(69,27): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(69,77): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+  Destroy.c
+  Game_Over.c
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(22,69): warning C4047: 'fonction' : les niveaux d'indirection de 'sfBool' et de 'void *' sont différents
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(22,69): warning C4024: 'sfRectangleShape_setTexture' : types différents pour le paramètre formel et réel 3
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(39,69): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(39,108): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(39,147): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(39,186): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(54,69): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(54,109): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(54,149): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(54,188): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+  Health.c
+  main.c
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(37,82): warning C4047: 'fonction' : les niveaux d'indirection de 'sfBool' et de 'void *' sont différents
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(37,82): warning C4024: 'sfRectangleShape_setTexture' : types différents pour le paramètre formel et réel 3
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(43,85): warning C4047: 'fonction' : les niveaux d'indirection de 'sfBool' et de 'void *' sont différents
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(43,85): warning C4024: 'sfRectangleShape_setTexture' : types différents pour le paramètre formel et réel 3
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(49,84): warning C4047: 'fonction' : les niveaux d'indirection de 'sfBool' et de 'void *' sont différents
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(49,84): warning C4024: 'sfRectangleShape_setTexture' : types différents pour le paramètre formel et réel 3
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(57,59): warning C4047: 'fonction' : les niveaux d'indirection de 'sfBool' et de 'void *' sont différents
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(57,59): warning C4024: 'sfRectangleShape_setTexture' : types différents pour le paramètre formel et réel 3
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(58,73): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(63,33): warning C4133: 'fonction' : types incompatibles - de 'sfCircleShape *' à 'sfRectangleShape *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(63,57): warning C4047: 'fonction' : les niveaux d'indirection de 'sfBool' et de 'void *' sont différents
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(63,57): warning C4024: 'sfRectangleShape_setTexture' : types différents pour le paramètre formel et réel 3
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(90,11): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+  Menu.c
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(20,59): warning C4047: 'fonction' : les niveaux d'indirection de 'sfBool' et de 'void *' sont différents
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(20,59): warning C4024: 'sfRectangleShape_setTexture' : types différents pour le paramètre formel et réel 3
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(30,69): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(30,108): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(30,148): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(30,187): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(33,69): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(33,108): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(33,148): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(33,187): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(36,69): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(36,108): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(36,148): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(36,187): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+  Score.c
+  Shoot.c
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Shoot.c(15,27): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Shoot.c(15,77): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Shoot.c(28,58): warning C4244: 'fonction' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Shoot.c(29,58): warning C4244: 'fonction' : conversion de 'double' en 'float', perte possible de données
+  Timer.c
+  Window.c
+  Génération de code en cours...
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Window.c(13): warning C4716: 'create_window' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Timer.c(24): warning C4716: 'create_timer' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Timer.c(32): warning C4716: 'display_timer' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Shoot.c(22): warning C4716: 'colisionShoot_small' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Shoot.c(50): warning C4716: 'Shoot' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Score.c(23): warning C4716: 'display_score' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Score.c(17): warning C4716: 'create_score' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(27): warning C4716: 'display_menu' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(22): warning C4716: 'create_menu' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Menu.c(39): warning C4716: 'Button' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(86): warning C4716: 'bord' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\main.c(70): warning C4716: 'create_texture' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Health.c(22): warning C4716: 'nblife' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Health.c(18): warning C4716: 'display_life' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(36): warning C4716: 'game_over' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(24): warning C4716: 'create_game_over' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Game_Over.c(57): warning C4716: 'Button_Game_Over' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Destroy.c(45): warning C4716: 'destroy_texture' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(65): warning C4716: 'colisionShip_medium' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(53): warning C4716: 'colisionShip' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(33): warning C4716: 'mouv' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\character.c(77): warning C4716: 'colisionShip_small' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(94): warning C4716: 'mouv_asteroid' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(111): warning C4716: 'mouv_asteroid_medium' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(154): warning C4716: 'respawn_asteroid' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(145): warning C4716: 'drawAsteroid' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(57): warning C4716: 'positionAsteroid_medium' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(128): warning C4716: 'mouv_asteroid_small' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(35): warning C4716: 'positionAsteroid' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(158): warning C4716: 'nbasteroid' : doit retourner une valeur
+C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\Asteroids\Asteroid.c(78): warning C4716: 'positionAsteroid_small' : doit retourner une valeur
+  LINK : C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\x64\Debug\Asteroids.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  Asteroids.vcxproj -> C:\Users\Lucas\Documents\GitHub\Asteroid_Quetes3\x64\Debug\Asteroids.exe
