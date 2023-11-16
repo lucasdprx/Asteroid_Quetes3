@@ -1,0 +1,4 @@
+﻿  Timer.c
+C:\Users\Lucas\source\repos\Asteroids\Asteroids\Timer.c(24): warning C4716: 'create_timer' : doit retourner une valeur
+C:\Users\Lucas\source\repos\Asteroids\Asteroids\Timer.c(32): warning C4716: 'display_timer' : doit retourner une valeur
+  Asteroids.vcxproj -> C:\Users\Lucas\source\repos\Asteroids\x64\Debug\Asteroids.exe
